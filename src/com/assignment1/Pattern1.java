@@ -1,4 +1,4 @@
-package ineuron.assignment1;
+package com.assignment1;
 
 public class Pattern1 {
 
