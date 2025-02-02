@@ -1,4 +1,4 @@
-package com.assigment2;
+package com.assignment2;
 
 public class Q1DuplicatesInArray {
 

@@ -1,4 +1,4 @@
-package com.assigment2;
+package com.assignment2;
 
 import java.util.Arrays;
 public class Q3BubbleSortAlgorithm {
